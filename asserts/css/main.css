@@ -2,11 +2,11 @@
 /*  Fonts  */
 @font-face {
     font-family: 'raleway-regular';
-    src: url('../fonts/raleway-regular.eot');
-    src: url('../fonts/raleway-regular.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/raleway-regular.woff') format('woff'),
-         url('../fonts/raleway-regular.ttf') format('truetype'),
-         url('../fonts/raleway-regular.svg#ralewayregular') format('svg');
+    src: url('https://cdn.jsdelivr.net/gh/fall-like-snow/fall-like-snow.github.io/asserts/fonts/raleway-regular.eot');
+    src: url('https://cdn.jsdelivr.net/gh/fall-like-snow/fall-like-snow.github.io/asserts/fonts/raleway-regular.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/fall-like-snow/fall-like-snow.github.io/asserts/fonts/raleway-regular.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fall-like-snow/fall-like-snow.github.io/asserts/fonts/raleway-regular.ttf') format('truetype'),
+         url('https://cdn.jsdelivr.net/gh/fall-like-snow/fall-like-snow.github.io/asserts/fonts/raleway-regular.svg#ralewayregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -15,11 +15,11 @@
 
 @font-face {
     font-family: 'raleway-bold';
-    src: url('../fonts/raleway-bold.eot');
-    src: url('../fonts/raleway-bold.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/raleway-bold.woff') format('woff'),
-         url('../fonts/raleway-bold.ttf') format('truetype'),
-         url('../fonts/raleway-bold.svg#ralewaybold') format('svg');
+    src: url('https://cdn.jsdelivr.net/gh/fall-like-snow/fall-like-snow.github.io/asserts/fonts/raleway-bold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/fall-like-snow/fall-like-snow.github.io/asserts/fonts/raleway-bold.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/fall-like-snow/fall-like-snow.github.io/asserts/fonts/raleway-bold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fall-like-snow/fall-like-snow.github.io/asserts/fonts/raleway-bold.ttf') format('truetype'),
+         url('https://cdn.jsdelivr.net/gh/fall-like-snow/fall-like-snow.github.io/asserts/fonts/raleway-bold.svg#ralewaybold') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -28,11 +28,11 @@
 
 @font-face {
     font-family: 'raleway-semibold';
-    src: url('../fonts/raleway-semibold.eot');
-    src: url('../fonts/raleway-semibold.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/raleway-semibold.woff') format('woff'),
-         url('../fonts/raleway-semibold.ttf') format('truetype'),
-         url('../fonts/raleway-semibold.svg#ralewaysemibold') format('svg');
+    src: url('https://cdn.jsdelivr.net/gh/fall-like-snow/fall-like-snow.github.io/asserts/fonts/raleway-semibold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/fall-like-snow/fall-like-snow.github.io/asserts/fonts/raleway-semibold.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/fall-like-snow/fall-like-snow.github.io/asserts/fonts/raleway-semibold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fall-like-snow/fall-like-snow.github.io/asserts/fonts/raleway-semibold.ttf') format('truetype'),
+         url('https://cdn.jsdelivr.net/gh/fall-like-snow/fall-like-snow.github.io/asserts/fonts/raleway-semibold.svg#ralewaysemibold') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -41,7 +41,7 @@
 
 @font-face {
     font-family: 'FZ';
-    src:url('../fonts/FZFWZhuZGDSMCJW.TTF') format('truetype');
+    src:url('https://cdn.jsdelivr.net/gh/fall-like-snow/fall-like-snow.github.io/asserts/fonts/FZFWZhuZGDSMCJW.TTF') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
